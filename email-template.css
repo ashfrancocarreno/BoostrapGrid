@@ -1,1 +1,34 @@
-<!-- CSS -->
+.row {
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.btn-group {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+#compose-btn {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.form-control{
+  margin-bottom: 5px;
+}
+
+.tab-pane{
+  margin-top: 10px;
+}
+
+.active{
+  background-color:rgb(238, 103, 24) !important;
+}
+
+.btn{
+    background-color:rgb(213, 43, 27) !important;
+}
